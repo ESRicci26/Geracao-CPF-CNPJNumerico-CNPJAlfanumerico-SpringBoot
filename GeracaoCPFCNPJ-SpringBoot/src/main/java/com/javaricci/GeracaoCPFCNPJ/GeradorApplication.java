@@ -10,5 +10,5 @@ public class GeradorApplication {
         SpringApplication.run(GeradorApplication.class, args);
     }
     
-    //http://localhost:8080
+    //http://localhost:8080/cadastros/gerarcpfcnpj/
 }
